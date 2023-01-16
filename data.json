@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "SDFT03",
+      "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+      "author": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "Titus Class",
+      "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+      "author": "typicode"
+    },
+    {
+      "id": 4,
+      "title": "Hamida's class",
+      "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+      "author": "typicode"
+    },
+    {
+      "title": "xxx",
+      "description": "xxxxx",
+      "author": "xxx",
+      "id": 5
+    },
+    {
+      "title": "xxx",
+      "description": "xxxxx",
+      "author": "xxx",
+      "id": 6
+    },
+    {
+      "title": "",
+      "description": "",
+      "author": "",
+      "id": 7
+    },
+    {
+      "title": "",
+      "description": "",
+      "author": "",
+      "id": 8
+    }
+  ]
+}
